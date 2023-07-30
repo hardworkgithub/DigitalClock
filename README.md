@@ -1,2 +1,2 @@
 # DigitalClock
-i developed a digital clock using python libraries
+I developed a digital clock using python libraries. 
